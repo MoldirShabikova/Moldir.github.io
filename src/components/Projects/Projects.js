@@ -82,7 +82,7 @@ function Projects() {
               isBlog={false}
               title="Find Recipe"
               description="A recipe app built using JavaScript can provide users with a platform to search, save, and organize their favorite recipes. It can have a user-friendly interface, allowing users to easily browse and search for recipes by ingredients, cuisine, or meal type."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              ghLink="https://github.com/MoldirShabikova/recipe-app"
               demoLink="https://moldirshabikova.github.io/Find-Meals-For-Your-Ingredients/"
             />
           </Col>
